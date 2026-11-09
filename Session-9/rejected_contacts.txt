@@ -1,0 +1,4 @@
+Jay,5000000009,380015 - Invalid mobile number
+Kavya,9000000010,056001 - Invalid PIN code
+Ishita,900000001,110001 - Invalid mobile number
+Meera,5000000011,056001 - Invalid mobile number and Invalid PIN code

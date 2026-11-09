@@ -1,0 +1,10 @@
+B01,Monsoon Mathematics,Meera Joshi,2026-08-03
+B02,The Blue Window,Rahul Shah,2026-08-04
+B03,Silent Rivers,Nidhi Patel,2026-08-05
+B04,The Golden Path,Jay Panchal,2026-08-06
+B05,Midnight Garden,Tulsi Shah,2026-08-07
+B06,Hidden Stars,Sahil Parmar,2026-08-08
+B07,Paper Dreams,Amit Desai,2026-08-09
+B08,Winter Letters,Priya Mehta,2026-08-10
+B09,Ocean of Stories,Karan Joshi,2026-08-11
+B10,The Last Chapter,Dhruvi Patel,2026-08-12

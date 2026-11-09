@@ -1,0 +1,6 @@
+Kiran Patel,250000,10.5,36
+Rahul Shah,500000,9.5,60
+Meera Joshi,300000,0,24
+Jay Panchal,400000,8.5,sixty
+Nidhi Patel,350000,9.0
+Amit Desai,200000,7.5,48

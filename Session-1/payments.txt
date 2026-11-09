@@ -1,0 +1,5 @@
+A-101|Rohan Desai|Aug|1800
+A-102|Meera Shah|Sep|2200
+B-101|Jay Panchal|Oct|1500
+B-102|Tulsi Panchal|Nov|2000
+C-101|Khushi Bhavsar|Dec|1700

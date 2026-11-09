@@ -1,0 +1,6 @@
+Kiran Patel: EMI = ₹8125.61
+Rahul Shah: EMI = ₹10500.93
+Interest rate is zero, EMI cannot be calculated
+Invalid number in loan request
+Missing field in loan request
+Amit Desai: EMI = ₹4835.78
